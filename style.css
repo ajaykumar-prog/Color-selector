@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    background-image: url("\mount.jpg");
+    background-size: cover;
+}
+div{
+    border: 2px solid rgb(255, 255, 255);
+    height: 200px;
+    width:700px;
+    margin:auto;
+    display: inline-block;
+    text-transform: capitalize;
+    padding-top: 150px;
+}
+button{
+    background-color: rgb(0, 0, 0);   
+    color: white;
+    width: 120px;
+    height: 30px;
+    font-weight: bolder;
+}
+
